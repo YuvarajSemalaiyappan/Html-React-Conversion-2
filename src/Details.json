@@ -1,0 +1,123 @@
+
+[
+    {
+      "id":1,
+      "name": "Fancy Product",
+      "price": "$40.00 - $80.00",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "sale": null,
+      "rating":5,
+      "actions": [
+        {
+          "label": "View options",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name": "Special Item",
+      "price": "$18.00",
+      "old_price": "$20.00",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "sale": "True",
+      "addToCart": "True",
+      "actions": [
+        {
+          "label": "Add to cart",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "name": "Sale Item",
+      "price": "$25.00",
+      "old_price": "$50.00",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "sale": "True",
+      "addToCart": "True",
+
+      "actions": [
+        {
+          "label": "Add to cart",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "name": "Popular Item",
+      "price": "$40.00",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "sale": null,
+      "rating":5,
+      "addToCart": "True",
+      "actions": [
+        {
+          "label": "Add to cart",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "name": "Sale Item",
+      "price": "$25.00",
+      "old_price": "$50.00",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "sale": "True",
+      "addToCart": "True",
+      "actions": [
+        {
+          "label": "Add to cart",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "name": "Fancy Product",
+      "price": "$120.00-$280.00",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "sale": "null",
+      "actions": [
+        {
+          "label": "Add to cart",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id":7,
+      "name": "Sale Item",
+      "price": "$18.00",
+      "old_price": "$20.00",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "sale": "False",
+      "rating":5,
+      "addToCart": "True",
+      "actions": [
+        {
+          "label": "Add to cart",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id":8,
+      "name": "Sale Item",
+      "price": "$40.00",
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "sale": null,
+      "rating":5,
+      "addToCart": "True",
+      "actions": [
+        {
+          "label": "Add to cart",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+
